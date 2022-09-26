@@ -1,0 +1,5 @@
+numpy>=1.10
+torch>=1.8.0
+torchvision>=0.8.0
+tqdm==4.64.0
+pytest>=6.0.0
